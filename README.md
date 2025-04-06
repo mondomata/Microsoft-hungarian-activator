@@ -13,8 +13,13 @@ Source/forrás: MAS_AIO 3.0
 💯 thanks to https://massgrave.dev 💟
 
 📸képernyőkép:
+![image](https://github.com/user-attachments/assets/e35aa4ec-6cd2-45fb-a4dd-7c5296564918)
+
 
 ![image](https://github.com/user-attachments/assets/f32f50d0-1802-4dae-be2b-4797ce3025a5)
+
+![image](https://github.com/user-attachments/assets/c4872990-a912-4ab2-aeb9-4173a6878bb7)
+
 
 
 
