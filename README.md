@@ -1,5 +1,5 @@
 # Microsoft-hungarian-activator
-Microsoft magyar aktivátor
+Microsoft magyar aktivátor (digitális licensz)
 
 🔑🔑🔑 
 <b>MAS_hun.cmd</b>
