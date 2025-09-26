@@ -1,5 +1,6 @@
 # Microsoft-hungarian-activator
 Microsoft magyar aktivátor (digitális licensz)
+megj: az itt lévő fájl régi verziójú, nem biztos, hogy működik; keresd a MAS-t az eredeti angol nyelvű weblapon.
 
 🔑🔑🔑 
 <b>MAS_hun.cmd</b>
