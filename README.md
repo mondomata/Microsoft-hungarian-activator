@@ -1,6 +1,6 @@
 # Microsoft-hungarian-activator
 Microsoft magyar aktivátor (digitális licensz)
-megj: az itt lévő fájl régi verziójú, nem biztos, hogy működik; keresd a MAS-t az eredeti angol nyelvű weblapon, vagy futtasd powershell/terminál ablakban ezt (angol!):
+megj: az itt lévő fájl régi verziójú, nem működik; keresd a MAS-t az eredeti angol nyelvű weblapon, vagy futtasd powershell/terminál ablakban ezt (angol!):
 ~~~
 irm https://get.activated.win | iex
 ~~~
